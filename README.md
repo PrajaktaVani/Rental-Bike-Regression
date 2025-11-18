@@ -25,3 +25,5 @@ Best model achieved high accuracy (R² score) and provided reliable predictions 
 │── notebook.ipynb  
 │── model.pkl  
 │── README.md  
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/12c4b002-a966-498e-bcc3-d4994d19a705" />
+<img width="1919" height="997" alt="Screenshot 2025-11-18 205347" src="https://github.com/user-attachments/assets/28c7997e-a370-46f3-86b1-58e64f384658" />

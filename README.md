@@ -27,3 +27,6 @@ Best model achieved high accuracy (R² score) and provided reliable predictions 
 │── README.md  
 <img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/12c4b002-a966-498e-bcc3-d4994d19a705" />
 <img width="1919" height="997" alt="Screenshot 2025-11-18 205347" src="https://github.com/user-attachments/assets/28c7997e-a370-46f3-86b1-58e64f384658" />
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/70f18369-752f-42cd-beb9-5fdd2d01414a" />
+<img width="1919" height="940" alt="Screenshot 2025-11-18 205519" src="https://github.com/user-attachments/assets/32a5f4ae-cb5c-4e6e-a6cb-8542c7265fc8" />
+<img width="1919" height="876" alt="Screenshot 2025-11-18 205546" src="https://github.com/user-attachments/assets/3294ac2a-90c4-460d-a204-69fa24c0db84" />
